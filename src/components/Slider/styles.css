@@ -7,7 +7,7 @@
 
 .carousel-title {
   color: white;
-  width: 40%;
+  width: 30%;
   text-align: center;
   font-size: 30px;
   padding: 0 100px 0 100px;
@@ -15,7 +15,7 @@
 
 .slide-container {
   height: 80%;
-  width: 100%;
+  width: 95%;
   border-radius: 40px;
   overflow: hidden;
   position: relative;

@@ -13,7 +13,7 @@ const About = () => {
       </div>
       <div className="about-img">
         <img
-          src="https://pixabay.com/es/photos/perro-mascota-animales-piel-hocico-3277417/"
+          src="https://pixabay.com/es/photos/perro-mascota-animales-piel-hocico-3277417.jpg"
           alt="about"
         />
       </div>
