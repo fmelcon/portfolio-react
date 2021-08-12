@@ -1,0 +1,9 @@
+.hero {
+  margin: 0 auto;
+  height: 100vh;
+  color: white;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  justify-items: center;
+}
