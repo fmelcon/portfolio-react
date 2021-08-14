@@ -29,19 +29,19 @@ const slidesInfo = [
     src: "https://i.imgur.com/4qSVoyS.png",
     alt: "Ecommerce",
     desc: "Ecommerce",
-    link: "https://github.com/fmelcon/breakingbad-quotes",
+    link: "https://github.com/fmelcon/ecommerce",
   },
   {
     src: "https://i.imgur.com/6JNI6ts.png",
     alt: "Budget App",
     desc: "Budget App",
-    link: "https://github.com/fmelcon/breakingbad-quotes",
+    link: "https://github.com/fmelcon/Gastos",
   },
   {
     src: "https://i.imgur.com/32xmjzf.png",
     alt: "Appointment manager",
     desc: "Appointment manager",
-    link: "https://github.com/fmelcon/breakingbad-quotes",
+    link: "https://github.com/fmelcon/admcitas",
   },
 ];
 
