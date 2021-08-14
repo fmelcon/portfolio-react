@@ -7,8 +7,8 @@ const About = () => {
       <div className="about-desc">
         <h3>About me</h3>
         <p>
-          I am a lover of technology, always learning new things and integrating
-          good and best practices, here are some of my projects
+          I am a web development student, I love to learn new things and
+          overcome challenges, grow and improve in my career
         </p>
       </div>
       <div className="about-img">

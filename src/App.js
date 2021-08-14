@@ -3,6 +3,8 @@ import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import About from "./components/About";
 import Slider from "./components/Slider";
+import Technologies from "./components/Technologies";
+import Footer from "./components/Footer";
 
 function App() {
   const [scrollHeight, setScrollHeight] = useState(0);
@@ -22,6 +24,8 @@ function App() {
       <Hero />
       <About />
       <Slider />
+      <Technologies />
+      <Footer />
     </div>
   );
 }

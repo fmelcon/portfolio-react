@@ -3,29 +3,53 @@ import "./styles.css";
 const slidesInfo = [
   {
     src: "https://i.imgur.com/4ox2cPr.png",
-    alt: "Proyect 1",
-    desc: "Proyect 1",
+    alt: "Crypto React",
+    desc: "Crypto React",
+    link: "https://github.com/fmelcon/criptomonedas",
   },
   {
     src: "https://i.imgur.com/yMONIhB.png",
-    alt: "Proyect 2",
-    desc: "Proyect 2",
+    alt: "Image Searcher",
+    desc: "Image Searcher",
+    link: "https://github.com/fmelcon/buscador",
   },
   {
     src: "https://i.imgur.com/QP6TVSz.png",
-    alt: "Proyect 3",
-    desc: "Proyect 3",
+    alt: "Drinks Recipes",
+    desc: "Drinks Recipes",
+    link: "https://github.com/fmelcon/drinks",
   },
   {
     src: "https://i.imgur.com/Ce48x0d.png",
-    alt: "Proyect 4",
-    desc: "Proyect 4",
+    alt: "BrBa Quotes",
+    desc: "BrBa Quotes",
+    link: "https://github.com/fmelcon/breakingbad-quotes",
+  },
+  {
+    src: "https://i.imgur.com/4qSVoyS.png",
+    alt: "Ecommerce",
+    desc: "Ecommerce",
+    link: "https://github.com/fmelcon/breakingbad-quotes",
+  },
+  {
+    src: "https://i.imgur.com/6JNI6ts.png",
+    alt: "Budget App",
+    desc: "Budget App",
+    link: "https://github.com/fmelcon/breakingbad-quotes",
+  },
+  {
+    src: "https://i.imgur.com/32xmjzf.png",
+    alt: "Appointment manager",
+    desc: "Appointment manager",
+    link: "https://github.com/fmelcon/breakingbad-quotes",
   },
 ];
 
 const slides = slidesInfo.map((slide) => (
   <div key={slide.desc} className="slide-container">
-    <img classname="about-img" src={slide.src} alt={slide.alt} />
+    <a target="_blank" rel="noopener noreferrer" href={slide.link}>
+      <img classname="about-img" src={slide.src} alt={slide.alt} />
+    </a>
     <div className="slide-desc">
       <span>{slide.desc}</span>
     </div>
