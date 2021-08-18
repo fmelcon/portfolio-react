@@ -4,7 +4,7 @@ import "./styles.css";
 const Technologies = () => {
   return (
     <div className="tech-container">
-      <h3>Some technologies that i use</h3>
+      <h5>Some technologies that i use</h5>
       <div className="tech">
         <img
           className="tech-img"

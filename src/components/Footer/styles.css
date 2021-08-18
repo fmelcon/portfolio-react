@@ -18,6 +18,10 @@
   justify-content: space-around;
 }
 
+h3 {
+  padding: 1rem 0;
+}
+
 .linkedin,
 .github,
 .facebook {
