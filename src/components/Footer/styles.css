@@ -1,0 +1,36 @@
+.footer {
+  width: 100%;
+  height: 100%;
+  z-index: -2;
+  background-color: black;
+  color: rgb(255, 255, 255);
+  display: grid;
+  text-align: center;
+  place-content: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+
+.sns-links {
+  padding: 1rem;
+  display: flex;
+  justify-content: space-around;
+}
+
+.linkedin,
+.github,
+.facebook {
+  color: white;
+  font-size: 30px;
+  margin: 0 auto;
+  padding-bottom: 6px;
+  border-bottom: 4px solid transparent;
+}
+
+.linkedin:hover,
+.github:hover,
+.facebook:hover {
+  border-color: white;
+  transition: all 0.3s ease-out;
+}
