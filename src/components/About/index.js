@@ -13,7 +13,7 @@ const About = () => {
       </div>
       <div className="about-img">
         <img
-          src="https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80"
+          src="https://lh3.googleusercontent.com/proxy/rKBtjoIB9XIX8vBJZS-iEKu9yujYrYFTGSyZOhW3s7XlG4KqDjF-c1TAUXPSp1CliSYBKtSkbVFJO89ZBUbV2vQKz9eb_KXAE2HNItJnQ9Kn5em3ISsf_N5hMriVUeaw"
           alt="about"
         />
       </div>

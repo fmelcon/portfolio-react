@@ -9,6 +9,8 @@
 .tech {
   margin: 7rem 0 100vh 0;
   align-items: center;
+  display: flex;
+  flex-wrap: wrap;
   justify-content: space-around;
 }
 
@@ -23,7 +25,7 @@ h5 {
 }
 
 .js {
-  width: 42x;
+  width: 42px !important;
 }
 
 @media screen and (max-width: 320) {
@@ -34,8 +36,5 @@ h5 {
   .tech-img {
     font-size: 1rem;
     margin-left: 3px;
-  }
-  .js {
-    width: 42px;
   }
 }
