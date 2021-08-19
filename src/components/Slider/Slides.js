@@ -48,7 +48,7 @@ const slidesInfo = [
 const slides = slidesInfo.map((slide) => (
   <div key={slide.desc} className="slide-container">
     <a target="_blank" rel="noopener noreferrer" href={slide.link}>
-      <img classname="about-img" src={slide.src} alt={slide.alt} />
+      <img classname="slider-img" src={slide.src} alt={slide.alt} />
     </a>
     <div className="slide-desc">
       <span>{slide.desc}</span>
