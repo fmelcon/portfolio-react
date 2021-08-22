@@ -8,6 +8,7 @@
 .about-desc {
   display: flex;
   flex-direction: column;
+  justify-content: center;
   width: 50%;
   margin: 1rem auto;
   align-items: center;
