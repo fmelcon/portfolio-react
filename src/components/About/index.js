@@ -13,7 +13,7 @@ const About = () => {
       </div>
       <div className="about-img">
         <img
-          src="https://lh3.googleusercontent.com/proxy/rKBtjoIB9XIX8vBJZS-iEKu9yujYrYFTGSyZOhW3s7XlG4KqDjF-c1TAUXPSp1CliSYBKtSkbVFJO89ZBUbV2vQKz9eb_KXAE2HNItJnQ9Kn5em3ISsf_N5hMriVUeaw"
+          src="https://png.pngtree.com/png-vector/20190411/ourlarge/pngtree-business-male-icon-vector-png-image_916468.jpg"
           alt="about"
         />
       </div>
