@@ -11,7 +11,7 @@
   align-items: center;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: space-evenly;
 }
 
 .tech-img {
@@ -21,7 +21,7 @@
 
 h5 {
   margin: 0rem 0 1rem 0;
-  padding: 3rem 0 1rem 0;
+  padding: 7rem 0 1rem 0;
 }
 
 .js {
