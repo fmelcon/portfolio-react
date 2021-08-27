@@ -54,6 +54,10 @@
   padding: 20px 0 20px 10px;
 }
 
+.BrainhubCarousel {
+  margin: 1rem 0;
+}
+
 .BrainhubCarousel__arrows {
   background-color: white;
   border-radius: 50%;
