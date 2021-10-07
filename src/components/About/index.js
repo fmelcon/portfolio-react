@@ -12,10 +12,7 @@ const About = () => {
         </p>
       </div>
       <div className="about-img">
-        <img
-          src="https://png.pngtree.com/png-vector/20190411/ourlarge/pngtree-business-male-icon-vector-png-image_916468.jpg"
-          alt="about"
-        />
+        <img src="https://i.imgur.com/fNKAdSG.jpg" alt="about" />
       </div>
     </div>
   );
