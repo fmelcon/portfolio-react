@@ -26,6 +26,7 @@
 
 .about-img {
   margin: 1rem auto;
+  border-radius: 50%;
   height: 300px;
   object-fit: cover;
   display: flex;
